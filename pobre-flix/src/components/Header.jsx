@@ -40,7 +40,7 @@ const Header = () => {
   return (
     <StyledHeader>
         <StyledLinkLogo to="/">
-            <span>PobreFlix</span>
+            <span>FavTube</span>
         </StyledLinkLogo>
         <nav>
             <StyledLinkNav to="/">Home</StyledLinkNav>
