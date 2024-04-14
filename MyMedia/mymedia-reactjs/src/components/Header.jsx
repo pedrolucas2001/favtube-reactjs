@@ -44,7 +44,7 @@ const Header = () => {
         </StyledLinkLogo>
         <nav>
             <StyledLinkNav to="/">Home</StyledLinkNav>
-            <StyledLinkNav to="/watch">Assistir</StyledLinkNav>
+            <StyledLinkNav to="/watch">Error</StyledLinkNav>
             <StyledLinkNav to="/search">Pesquisar</StyledLinkNav>
         </nav>
     </StyledHeader>
